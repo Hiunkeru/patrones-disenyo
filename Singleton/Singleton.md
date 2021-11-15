@@ -1,6 +1,6 @@
-﻿## Patrón Singleton (Patrón de contrucción)
+﻿## Patrón Singleton (Patrón de construcción)
 
-### Patrón de contrucción
+### Patrón de construcción
 	- Los patrones de construcción tienen la vocación de abstraer los mecanismos de creación de objetos. Un sistema que utilice  estos  patrones  se  vuelve  independiente  de  la  forma  en  que  se  crean  los  objetos,  en  particular,  de  los mecanismos de instanciación de las clases concretas.
 
 ### Proposito

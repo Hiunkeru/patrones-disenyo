@@ -1,4 +1,4 @@
-﻿## Patrón Prototype (Patrón de contrucción)
+﻿## Patrón Prototype (Patrón de construcción)
 
 El objetivo de  este patrón  es la  creación de nuevos objetos mediante duplicación de objetos  existentes llamados prototipos que disponen de la capacidad de clonación.
 
