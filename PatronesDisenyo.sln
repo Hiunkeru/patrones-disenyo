@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesDisenyo", "PatronesDisenyo\PatronesDisenyo.csproj", "{78E892DD-B291-4D8B-8DA2-5B1A76857DB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDisenyo", "PatronesDisenyo\PatronesDisenyo.csproj", "{78E892DD-B291-4D8B-8DA2-5B1A76857DB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{3DB17633-F61A-455A-83EE-6C36565DA221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{3DB17633-F61A-455A-83EE-6C36565DA221}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Patrones Creacion", "1 - Patrones Creacion", "{E1BF7D73-FB87-4AB1-9562-63708F2AA733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{5049F2E1-0403-47ED-9554-B0FCF0F21077}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{3DB17633-F61A-455A-83EE-6C36565DA221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB17633-F61A-455A-83EE-6C36565DA221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB17633-F61A-455A-83EE-6C36565DA221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5049F2E1-0403-47ED-9554-B0FCF0F21077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5049F2E1-0403-47ED-9554-B0FCF0F21077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5049F2E1-0403-47ED-9554-B0FCF0F21077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5049F2E1-0403-47ED-9554-B0FCF0F21077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3DB17633-F61A-455A-83EE-6C36565DA221} = {E1BF7D73-FB87-4AB1-9562-63708F2AA733}
+		{5049F2E1-0403-47ED-9554-B0FCF0F21077} = {E1BF7D73-FB87-4AB1-9562-63708F2AA733}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B77BCA5C-F89A-4F74-A5B0-CEE3C072799D}
